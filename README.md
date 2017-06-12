@@ -71,6 +71,8 @@ XHTML(또는 HTML)로 선택적 변환이 가능하게 하는 것이 목표이�
 ### 3번 중첩	
 ## 2번 중첩
 # 1번 중첩
+     
+***     
        
 ***          
 ### (2)리스트
@@ -272,7 +274,19 @@ _Italic_
     
  - 화면에 이미지 출력가능
  - 사용법: ![이미지이름](이미지주소)
+      
+*예시 코드*
+  
+```
+![baidu-images](http://cfile3.uf.tistory.com/image/27710F4B57188341379FA8)
+```
    
+*결과*
+    
+    
+ ![baidu-images](http://cfile3.uf.tistory.com/image/27710F4B57188341379FA8)  
+   
+
      
 
 
